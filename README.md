@@ -9,8 +9,8 @@ Use Up arrow key to paddle up and Down arroy key to paddle down.
 
 ## Screenshots
 
-![Title screen].(https://github.com/jensoncaparida/simple-pingpong-game/blob/master/Screenshot/title.PNG)
+!.[Title screen].(https://github.com/jensoncaparida/simple-pingpong-game/blob/master/Screenshot/title.PNG)
 
-![Game Menu screen].(https://github.com/jensoncaparida/simple-pingpong-game/blob/master/Screenshot/game%20menu.PNG)
+!.[Game Menu screen].(https://github.com/jensoncaparida/simple-pingpong-game/blob/master/Screenshot/game%20menu.PNG)
 
-![Game Play screen].(https://github.com/jensoncaparida/simple-pingpong-game/blob/master/Screenshot/game-play.PNG)
+!.[Game Play screen].(https://github.com/jensoncaparida/simple-pingpong-game/blob/master/Screenshot/game-play.PNG)
