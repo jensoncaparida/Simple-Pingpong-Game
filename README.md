@@ -1,3 +1,5 @@
+# Simple Pingpong Game
+
 ## Controls
 
 For Player 1:
