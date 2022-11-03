@@ -1,4 +1,4 @@
-##Controls
+## Controls
 
 For Player 1:
 Use W key to paddle up and S key to paddle down.
